@@ -21,3 +21,10 @@ Week 1:Recurrent Neural Networks:
 >PA2:[Dinosaurus_Island_Character_level_language_model_final](https://github.com/asenarmour/Sequence-models-coursera/blob/master/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)
 >
 >PA3:[Improvise_a_Jazz_Solo_with_an_LSTM_Network](https://github.com/asenarmour/Sequence-models-coursera/blob/master/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+
+
+Week 2: Natural Language Processing & Word Embeddings:
+
+>PA1: [Operations_on_word_vectors](https://github.com/asenarmour/Sequence-models-coursera/blob/master/Operations_on_word_vectors_v2a.ipynb)
+>
+>PA2:[Emojify](https://github.com/asenarmour/Sequence-models-coursera/blob/master/Emojify_v2a.ipynb)
