@@ -28,3 +28,10 @@ Week 2: Natural Language Processing & Word Embeddings:
 >PA1: [Operations_on_word_vectors](https://github.com/asenarmour/Sequence-models-coursera/blob/master/Operations_on_word_vectors_v2a.ipynb)
 >
 >PA2:[Emojify](https://github.com/asenarmour/Sequence-models-coursera/blob/master/Emojify_v2a.ipynb)
+
+
+Week 3:Sequence models and attention mechanism:
+
+>PA1:[Neural_machine_translation_with_attention](https://github.com/asenarmour/Sequence-models-coursera/blob/master/Neural_machine_translation_with_attention_v4a.ipynb)
+>
+>PA2[Trigger_word_detection](https://github.com/asenarmour/Sequence-models-coursera/blob/master/Trigger_word_detection_v1a.ipynb)
